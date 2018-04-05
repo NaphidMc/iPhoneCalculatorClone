@@ -1,0 +1,15 @@
+.root { -fx-background-color: BLACK; }
+
+.button {
+ -fx-border-width: 1;
+ -fx-border-color: BLACK;
+ -fx-focus-color: transparent;
+ -fx-background-radius: 0;
+ -fx-text-fill: BLACK;
+ -fx-font: 48px Courier;
+}
+
+#output {
+ -fx-text-fill: WHITE;
+ -fx-font: 96px Courier;
+}
